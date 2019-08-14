@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">shared_pref</string>
+    <string name="title_home">Home</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="nim">10116135</string>
+    <string name="nama">Rival Agung Fahrizal</string>
+    <string name="kelas">IF-3</string>
+    <string name="deskripsi">Lulusan : SMKN 1 Sukabumi, SMPN 1 Cikarang Utara, SDN Kebonjati</string>
+    <string name="telepon">082111298979</string>
+    <string name="deskripsi_aplikasi">Aplikasi yang menampilkan profil dan kontak pribadi dan juga teman</string>
+    <string name="sosmed">https://www.facebook.com/rival.fafurizaru</string>
+    <string name="email">rivalagungfahrizal.mahasiswa.unikom.ac.id</string>
+    <string name="third_frag_title">Kontak</string>
+    <string name="selamat_datang">Selamat datang!!!</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="profile">Profile</string>
+    <string name="kontak">Kontak</string>
+    <string name="daftar_teman">Daftar Teman</string>
+    <string name="welcome">Welcome</string>
+
+    <string name="slide_1_title">Selamat Datang!</string>
+    <string name="slide_1_desc">Aplikasi ini adalah aplikasi yang berisi data kontak teman, yang memiliki fitur CRUD</string>
+
+    <string name="slide_2_title">Fitur</string>
+    <string name="slide_2_desc">Fitur-fitur terdiri dari Create, Read, Update, Delete Data Teman. Juga dapat melihat data diri</string>
+
+    <string name="slide_3_title">Database</string>
+    <string name="slide_3_desc">Aplikasi ini menggunakan SharedPreference dan Realm untuk databasenya</string>
+
+    <string name="slide_4_title">Coba Aplikasi</string>
+    <string name="slide_4_desc">Klik tombol GOT IT untuk memulai</string>
+
+    <string name="play_again_desc">Untuk melihat slide intro, Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Myname">Rival Agung Fahrizal</string>
+</resources>

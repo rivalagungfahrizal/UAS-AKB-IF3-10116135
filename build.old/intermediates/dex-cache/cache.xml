@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\8be41156a7fabf8a915ccd062b36f054eb583cb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_2d4debcbb16454764ff5ca6e242419602ddf9998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\5eeca5228b5610c2152f69f886aceccd35497b04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_f47972d1193b85bea9cc16ed049a90019f7063c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\3bf9355028ef4981e3b16ff8583874e36fd51649\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_37fc98cb3805cf0c7dc59757c264e27fd5b1b3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\20d5cacbdd0f0ad2e2f01ab2eb7f3b51d6249f28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_9f3a85f873ef754615f25b75fc43dd2620aa91ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\c09b6652b31d60cf6dc4973712c4ab5f7c5d0984\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_0affb20bc98a389e194ca1573c0c1331661a07f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_c8f94a2be32ce59adc0ee6c2d4ead0eb6fee130f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\e3426b03233ed756293f114dbb1bc58d8f33b3fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_f0e7dbf8fc4cf3946705571a1978ac414768b33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\1c04f92a4e64c74fa815680c084666463ece24c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_f06b39c2909d40262c37335388b0e3dc90bc80ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\12d55995113ee2d807be7e5527dd4d238c69a020\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_999457a9e361652bc549a1d28cee7cb18e58eb28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\26dc635ccce54535ad3a0c04f237dbd2150e8ff9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_8408a1b60350ff92ceba1e4ce3ccea514995c11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\86873d5192f3e6a5d653408fcae0c5f263c6b031\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_eba91c3bd18353c4de7a512f643b13b204064e04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\f99feb5831fdc43050fa426c7931665bc326ad18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_6cba8952c8aec64ad79877dbe2d0d2c9e262bb94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rival-PC\.android\build-cache\9d7234d88f586bbf89df967bfee31673f73bde98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="E:\Kuliah\Semester 6\Teknik Aplikasi Bergerak\zzz\viewpageriteminbnv-master\app\build\intermediates\pre-dexed\debug\classes_325ea30314f6149557e2203b51077ba5c6a84447.jar" />
+    </item>
+
+</items>
